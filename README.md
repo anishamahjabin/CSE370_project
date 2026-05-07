@@ -25,8 +25,8 @@ The **Campus Parking Slot Finder** is designed to solve the daily problem of fin
 | Layer      | Technology                  |
 |------------|-----------------------------|
 | Frontend   | HTML / CSS / JavaScript     |
-| Backend    | (specify: Node.js / PHP / Python, etc.) |
-| Database   | MySQL / PostgreSQL (specify) |
+| Backend    | (Node.js / PHP / Python, .) |
+| Database   | MySQL  |
 | Others     | (e.g., XAMPP, phpMyAdmin)   |
 
 
@@ -48,10 +48,9 @@ The **Campus Parking Slot Finder** is designed to solve the daily problem of fin
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/campus-parking-slot-finder.git
-   cd campus-parking-slot-finder
-   ```
+   - Open **GitHub Desktop**
+   - Go to `File > Clone Repository`
+   - Select the repo and choose a local path, then click **Clone**
 
 2. **Set up the database**
    - Import the provided `.sql` file into your database server:
@@ -88,7 +87,6 @@ campus-parking-slot-finder/
 ```
 
 ---
-
 ## 📄 License
 
 This project was developed for academic purposes as part of the CSE370 Database Systems course.
